@@ -1,17 +1,53 @@
 <img src="https://i.imgur.com/GgDkyHz.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐁𝐀𝐘𝐉𝐈𝐃 -𝐗𝐀𝐒𝐒 𝐁𝐎𝐓__/:;)🤍- 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
-<!-- Github README -->
 
-<p align="center"><img src="https://img.shields.io/badge/I Am BAYJID %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<h1 align="center">
+  <img src="./dashboard/images/logo-non-bg.png" width="30px">
+  <strong>𝐁𝐀𝐘𝐉𝐈𝐃 - XASS BOT</strong> 🤍<br>
+  <sub>By MOHAMMAD BAYJID | Messenger Chat Bot</sub>
+</h1>
 
-</i></b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/I%20Am%20BAYJID%20%7C%20BANGLADESHI%20NOOB%20PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+</p>
+
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴄʜᴀᴛ ʙᴏᴛ &nbsp;
+  &nbsp; Welcome to My Chat Bot &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
+<p align="center">
+  <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+INNOCENT+BOY;IT'S+NOT+JUST+A+NAME+BRO;IT'S+A+BRAND;THANK+YOU+EVERYONE;LOVE+U+ALL+FRIENDS">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+---
+
+## 🛠️ Bot Info
+
+> **XASS** is a powerful Messenger ChatBot built with Node.js. It comes with several features like:
+- Auto-reply to messages
+- Group moderation
+- Image/media handling
+- Custom command support
+- Dynamic language and settings
+
+---
+
+## 💾 MongoDB Integration
+
+> This bot uses **MongoDB** to store and manage persistent data. Here’s how MongoDB is used:
+
+- Stores user data, group settings, and real-time logs
+- Uses environment variable `MONGODB_URI` for secure access
+- Works with both MongoDB Atlas (cloud) and local databases
+
+**.env Example:**
+
+```env
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/xass?retryWrites=true&w=majority
